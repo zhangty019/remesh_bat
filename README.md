@@ -15,3 +15,5 @@ set MeshLab_dir=C:\Program Files\VCG\MeshLab"
 The original mesh will read from the "layers_unremeshed" folder and the remeshed mesh will be put into the "layers_remeshed" folder.
 
 ![](remesh_results.jpg)
+
+Meshlab Version: 2020.07
