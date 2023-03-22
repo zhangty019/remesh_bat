@@ -1,5 +1,5 @@
 # remesh_bat
-A tool to do remesh based on MeshLab(Version: 2020.07)
+A tool to do remesh based on MeshLab (Version: 2020.07)
 
 Notice that starting from MeshLab v2020.12, the meshlabserver does not exist anymore, and was replaced by pyMeshLab (runnning mlx scripts through Python).
 
