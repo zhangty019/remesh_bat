@@ -1,5 +1,8 @@
 # remesh_bat
-A tool to do remesh based on MeshLab
+A tool to do remesh based on MeshLab(Version: 2020.07)
+
+Notice that starting from MeshLab v2020.12, the meshlabserver does not exist anymore, and was replaced by pyMeshLab (runnning mlx scripts through Python).
+
 ## Usage
 **Step 0: Download this repository and unzip it into one folder**
 For example, the directory is "C:\PHD\Code\S3_DeformFDM\DataSet\remesh_operation"
@@ -15,5 +18,3 @@ set MeshLab_dir=C:\Program Files\VCG\MeshLab"
 The original mesh will read from the "layers_unremeshed" folder and the remeshed mesh will be put into the "layers_remeshed" folder.
 
 ![](remesh_results.jpg)
-
-Meshlab Version: 2020.07
